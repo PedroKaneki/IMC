@@ -1,0 +1,33 @@
+body{
+    background-color: blanchedalmond;
+}
+
+#container{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(190, 142, 142);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 465px;
+    border-radius: 15px;
+}
+
+input{
+    text-decoration: none;
+    width: 400px;
+    height: 20px;
+    border-radius: 100px;
+    outline: none;
+    border: none;
+}
+button{
+    width: 150px;
+    outline: none;
+    border-radius: 15px;
+    border: none;
+    padding: 5px;
+    
+    
+}
